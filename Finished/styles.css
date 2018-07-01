@@ -1,0 +1,45 @@
+.container{
+    padding:30px;
+}
+
+.jumbotron {
+	
+	opacity: 0.8;
+	text-align: center;
+    padding-top: 30px;
+}
+
+
+body	{    
+Background-color:lightgray;
+background-size :cover;
+background-position: top;
+background-repeat: no-repeat;
+margin: auto;
+}
+
+
+
+
+.card {
+    
+    opacity: 0.8;
+    float:left;
+    display:inline;
+    padding:30px;
+    border: 30px;
+}
+
+.card-header{
+    width:100%;
+    padding-top: 25px;
+}
+
+#form {
+    align-content: center;
+}
+
+.square {
+    height: 75px;
+    width: 75px;
+}
